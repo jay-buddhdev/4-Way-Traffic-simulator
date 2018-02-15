@@ -22,7 +22,7 @@
         Pic_bx_Green3.Region = New Region(a)
         Pic_bx_Green4.Region = New Region(a)
 
-
+        'Hello wORLD
 
     End Sub
 
